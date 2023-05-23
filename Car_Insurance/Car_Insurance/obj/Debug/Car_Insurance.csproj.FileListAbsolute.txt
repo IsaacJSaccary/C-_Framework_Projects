@@ -1,0 +1,7 @@
+C:\Users\isaac\source\repos\Car_Insurance\Car_Insurance\bin\Debug\Car_Insurance.exe.config
+C:\Users\isaac\source\repos\Car_Insurance\Car_Insurance\bin\Debug\Car_Insurance.exe
+C:\Users\isaac\source\repos\Car_Insurance\Car_Insurance\bin\Debug\Car_Insurance.pdb
+C:\Users\isaac\source\repos\Car_Insurance\Car_Insurance\obj\Debug\Car_Insurance.csproj.AssemblyReference.cache
+C:\Users\isaac\source\repos\Car_Insurance\Car_Insurance\obj\Debug\Car_Insurance.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\Car_Insurance\Car_Insurance\obj\Debug\Car_Insurance.exe
+C:\Users\isaac\source\repos\Car_Insurance\Car_Insurance\obj\Debug\Car_Insurance.pdb
