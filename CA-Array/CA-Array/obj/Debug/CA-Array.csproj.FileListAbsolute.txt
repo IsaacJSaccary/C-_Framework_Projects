@@ -1,0 +1,7 @@
+C:\Users\isaac\source\repos\CA-Array\CA-Array\bin\Debug\CA-Array.exe.config
+C:\Users\isaac\source\repos\CA-Array\CA-Array\bin\Debug\CA-Array.exe
+C:\Users\isaac\source\repos\CA-Array\CA-Array\bin\Debug\CA-Array.pdb
+C:\Users\isaac\source\repos\CA-Array\CA-Array\obj\Debug\CA-Array.csproj.AssemblyReference.cache
+C:\Users\isaac\source\repos\CA-Array\CA-Array\obj\Debug\CA-Array.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\CA-Array\CA-Array\obj\Debug\CA-Array.exe
+C:\Users\isaac\source\repos\CA-Array\CA-Array\obj\Debug\CA-Array.pdb
