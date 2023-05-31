@@ -15,12 +15,6 @@ namespace Demo2
             string things = "Isaac";
             string upper = fun.ToUpper();
             Console.WriteLine(upper + stuff + things);
-
-
-
-
-
-
             StringBuilder sb = new StringBuilder();
             sb.Append("My name is Isaac");
             Console.WriteLine(sb);
