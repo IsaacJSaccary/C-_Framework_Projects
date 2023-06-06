@@ -102,9 +102,10 @@ namespace ConsoleApp_Iteration
             Console.ReadLine();
             //String with tenant list names
             List<string> identical1 = new List<string>() { "Sam", "Steve", "Jesse", "Frank", "Steve", "Isaac" };
-            //String to help check the ;
+            //String to help check the list
             List<string> identicalCheck = new List<string>();
             Console.WriteLine("Tenant List:");
+            //foreach loop to chech the list for identical strings
             foreach(string identical in identical1)
             {
                 Console.WriteLine(identical);
