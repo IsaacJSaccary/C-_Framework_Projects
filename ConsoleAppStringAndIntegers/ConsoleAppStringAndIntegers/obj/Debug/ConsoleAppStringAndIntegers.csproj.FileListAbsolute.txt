@@ -1,0 +1,7 @@
+C:\Users\isaac\source\repos\ConsoleAppStringAndIntegers\ConsoleAppStringAndIntegers\obj\Debug\ConsoleAppStringAndIntegers.csproj.AssemblyReference.cache
+C:\Users\isaac\source\repos\ConsoleAppStringAndIntegers\ConsoleAppStringAndIntegers\obj\Debug\ConsoleAppStringAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\ConsoleAppStringAndIntegers\ConsoleAppStringAndIntegers\bin\Debug\ConsoleAppStringAndIntegers.exe.config
+C:\Users\isaac\source\repos\ConsoleAppStringAndIntegers\ConsoleAppStringAndIntegers\bin\Debug\ConsoleAppStringAndIntegers.exe
+C:\Users\isaac\source\repos\ConsoleAppStringAndIntegers\ConsoleAppStringAndIntegers\bin\Debug\ConsoleAppStringAndIntegers.pdb
+C:\Users\isaac\source\repos\ConsoleAppStringAndIntegers\ConsoleAppStringAndIntegers\obj\Debug\ConsoleAppStringAndIntegers.exe
+C:\Users\isaac\source\repos\ConsoleAppStringAndIntegers\ConsoleAppStringAndIntegers\obj\Debug\ConsoleAppStringAndIntegers.pdb
