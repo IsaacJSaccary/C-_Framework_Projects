@@ -1,0 +1,8 @@
+C:\Users\isaac\source\repos\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe.config
+C:\Users\isaac\source\repos\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe
+C:\Users\isaac\source\repos\CallingMethods\CallingMethods\bin\Debug\CallingMethods.pdb
+C:\Users\isaac\source\repos\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.AssemblyReference.cache
+C:\Users\isaac\source\repos\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\source\repos\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\CallingMethods\CallingMethods\obj\Debug\CallingMethods.exe
+C:\Users\isaac\source\repos\CallingMethods\CallingMethods\obj\Debug\CallingMethods.pdb
