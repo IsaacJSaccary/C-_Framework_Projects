@@ -1,0 +1,3 @@
+C:\Users\isaac\source\repos\MethodClassAssignment\MethodClassAssignment\obj\Release\MethodClassAssignment.csproj.AssemblyReference.cache
+C:\Users\isaac\source\repos\MethodClassAssignment\MethodClassAssignment\obj\Release\MethodClassAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\source\repos\MethodClassAssignment\MethodClassAssignment\obj\Release\MethodClassAssignment.csproj.CoreCompileInputs.cache
