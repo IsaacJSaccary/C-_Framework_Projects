@@ -11,6 +11,7 @@ namespace MethodClassAssignment
     {
         public void MathOp(int num1, int num2)
         {
+            //Creating the method MathOp
             int result = num1 + 7;
             Console.WriteLine(num2);
         }
