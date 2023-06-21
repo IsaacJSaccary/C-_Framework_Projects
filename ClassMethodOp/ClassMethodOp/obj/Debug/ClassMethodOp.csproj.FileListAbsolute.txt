@@ -1,0 +1,8 @@
+C:\Users\isaac\source\repos\ClassMethodOp\ClassMethodOp\bin\Debug\ClassMethodOp.exe.config
+C:\Users\isaac\source\repos\ClassMethodOp\ClassMethodOp\bin\Debug\ClassMethodOp.exe
+C:\Users\isaac\source\repos\ClassMethodOp\ClassMethodOp\bin\Debug\ClassMethodOp.pdb
+C:\Users\isaac\source\repos\ClassMethodOp\ClassMethodOp\obj\Debug\ClassMethodOp.csproj.AssemblyReference.cache
+C:\Users\isaac\source\repos\ClassMethodOp\ClassMethodOp\obj\Debug\ClassMethodOp.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\source\repos\ClassMethodOp\ClassMethodOp\obj\Debug\ClassMethodOp.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\ClassMethodOp\ClassMethodOp\obj\Debug\ClassMethodOp.exe
+C:\Users\isaac\source\repos\ClassMethodOp\ClassMethodOp\obj\Debug\ClassMethodOp.pdb
