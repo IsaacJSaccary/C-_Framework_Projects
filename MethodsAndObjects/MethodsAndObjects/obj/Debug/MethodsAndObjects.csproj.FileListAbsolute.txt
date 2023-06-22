@@ -1,0 +1,8 @@
+C:\Users\isaac\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe.config
+C:\Users\isaac\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe
+C:\Users\isaac\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.pdb
+C:\Users\isaac\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\isaac\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.exe
+C:\Users\isaac\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.pdb
