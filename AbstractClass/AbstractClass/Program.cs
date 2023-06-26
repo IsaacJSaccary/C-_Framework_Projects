@@ -11,9 +11,13 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
+            //Object IQuittable
+            IQuittable iquittable = new Employee();
             //Instantiate an employee object and call SayName()
             Employee employee = new Employee() { firstName = "Sample", lastName = "Student" };
             employee.SayName();
+            //Call the IQuit method
+            iquittable.IQuit(employee);
             Console.ReadLine();
         }
     }
