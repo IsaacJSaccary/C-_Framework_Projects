@@ -1,3 +1,0 @@
-C:\Users\isaac\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.AssemblyReference.cache
-C:\Users\isaac\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.SuggestedBindingRedirects.cache
-C:\Users\isaac\source\repos\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.CoreCompileInputs.cache
