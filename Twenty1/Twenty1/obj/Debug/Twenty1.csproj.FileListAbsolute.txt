@@ -1,8 +1,0 @@
-C:\Users\isaac\source\repos\Twenty1\Twenty1\bin\Debug\Twenty1.exe.config
-C:\Users\isaac\source\repos\Twenty1\Twenty1\bin\Debug\Twenty1.exe
-C:\Users\isaac\source\repos\Twenty1\Twenty1\bin\Debug\Twenty1.pdb
-C:\Users\isaac\source\repos\Twenty1\Twenty1\obj\Debug\Twenty1.csproj.AssemblyReference.cache
-C:\Users\isaac\source\repos\Twenty1\Twenty1\obj\Debug\Twenty1.csproj.SuggestedBindingRedirects.cache
-C:\Users\isaac\source\repos\Twenty1\Twenty1\obj\Debug\Twenty1.csproj.CoreCompileInputs.cache
-C:\Users\isaac\source\repos\Twenty1\Twenty1\obj\Debug\Twenty1.exe
-C:\Users\isaac\source\repos\Twenty1\Twenty1\obj\Debug\Twenty1.pdb
