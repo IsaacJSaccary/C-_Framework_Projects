@@ -56,7 +56,7 @@ namespace Twenty1
         public static bool IsBusted(List<Card> Hand)
         {
             int value = GetAllPossibleHandValues(Hand).Min();
-            if (value == 21) return true;
+            if (value > 21) return true;
             else return false;   
         }
         public static bool ShouldDealerStay(List<Card> Hand)
