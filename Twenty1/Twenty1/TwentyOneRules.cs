@@ -77,8 +77,8 @@ namespace Twenty1
             int[] playerResults = GetAllPossibleHandValues(PlayerHand);
             int[] dealerResults = GetAllPossibleHandValues(DealerHand);
 
-            int playerScore = playerResults.Where(x => x < 21).Max();
-            int dealerScore = dealerResults.Where(x => x < 21).Max();
+            int playerScore = playerResults.Where(x => x < 22).Max();
+            int dealerScore = dealerResults.Where(x => x < 22).Max();
 
             if (playerScore > dealerScore) return true;
             else if (playerScore < dealerScore) return false;
