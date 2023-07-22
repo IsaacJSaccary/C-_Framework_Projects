@@ -1,0 +1,8 @@
+C:\Users\isaac\source\repos\InputAssignment01\InputAssignment01\bin\Debug\InputAssignment01.exe.config
+C:\Users\isaac\source\repos\InputAssignment01\InputAssignment01\bin\Debug\InputAssignment01.exe
+C:\Users\isaac\source\repos\InputAssignment01\InputAssignment01\bin\Debug\InputAssignment01.pdb
+C:\Users\isaac\source\repos\InputAssignment01\InputAssignment01\obj\Debug\InputAssignment01.csproj.AssemblyReference.cache
+C:\Users\isaac\source\repos\InputAssignment01\InputAssignment01\obj\Debug\InputAssignment01.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\source\repos\InputAssignment01\InputAssignment01\obj\Debug\InputAssignment01.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\InputAssignment01\InputAssignment01\obj\Debug\InputAssignment01.exe
+C:\Users\isaac\source\repos\InputAssignment01\InputAssignment01\obj\Debug\InputAssignment01.pdb
