@@ -10,10 +10,13 @@ namespace ConstructorAssignment
     {
         static void Main(string[] args)
         {
+            //Create a const variable
             const string const1 = "Your name is: ";
             const string const2 = "Your favorite number is ";
             Console.WriteLine("Enter your name and favourite number: ");
+            //Create a variable using keyword var
             var answer = Console.ReadLine();
+            //Chain two constructors
             if (float.TryParse(answer, out float x))
             {
                 Console.WriteLine(const2);
