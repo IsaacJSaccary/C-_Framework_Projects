@@ -17,7 +17,7 @@ namespace FinalProject
                 var stud = new Student() { FirstName = "Isaac", LastName = "Saccary", Age = 22 };
 
                 ctx.Students.Add(stud);
-                ctx.Students.SaveChanges();
+                ctx.SaveChanges();
                 return;
             }
         }
